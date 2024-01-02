@@ -1,4 +1,4 @@
-![image](https://github.com/innayahptr/RISKYL-LOAN-PREDICTION-USING-RANDOM-FOREST-CLASSIFIER/assets/113874779/343fd950-ea8d-49e0-88ac-89e5683f8151)# MODELLING FLOW 
+# MODELLING FLOW 
 
 ## 1. Exploratory Data Analysis
 a. Data terdiri dari 75 kolom dan 242.059 baris tanpa nilai duplikat dan 17 kolom kosong sehingga kolom di putuskan untuk di drop sejak awal dan tersisa 58 kolom. <br> 
